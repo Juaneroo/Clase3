@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tituloApp">Modulo de votación</string>
+    <string name="Copy">Copyright 2023</string>
+    <string name="nombreUno">Nombre</string>
+    <string name="cedulaUno">Cedula</string>
+    <string name="fechaUno">Fecha de nacimiento</string>
+    <string name="votoUno">Votó</string>
+    <string name="nombreDos">Nombre</string>
+    <string name="cedulaDos">Cedula</string>
+    <string name="fechaDos">Fecha de nacimiento</string>
+    <string name="votoDos">Votó</string>
+</resources>
